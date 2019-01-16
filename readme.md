@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 
 **Noora Etula**
 <noora.etula@gmail.com>
