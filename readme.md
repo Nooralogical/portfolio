@@ -1,14 +1,13 @@
-Porfolio
-============
+# Porfolio
 
 **Noora Etula**
-<noora.etula@student.lamk.fi>
+<noora.etula@gmail.com>
 
-Instructions used:
-+ Docblock <http://docs.phpdoc.org/guides/docblocks.html>
+## About
 
-About
-------------
+
+## Projects
+
 
 ## Thanks for reading
 :closed_book:
