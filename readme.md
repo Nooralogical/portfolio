@@ -1,4 +1,4 @@
-![Header image](/images/githeader.png "Porfolio header picture")
+![Header image](/images/githeader.jpg "Porfolio header picture")
 
 # Portfolio
 
