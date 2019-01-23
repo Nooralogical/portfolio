@@ -8,10 +8,13 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## Projects
 
-#UI design
-#Front-end
-#Game development
-#Back-end & Others
+### UX & UI design
+
+### Front-end
+
+### Game development
+
+### Back-end & Others
 
 ## Thanks for reading
 :closed_book:
