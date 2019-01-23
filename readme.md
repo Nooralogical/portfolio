@@ -1,3 +1,5 @@
+![Header image](/images/githeader.png "Porfolio header picture")
+
 # Portfolio
 
 **Noora Etula**
