@@ -21,8 +21,8 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 ## Front-end
 
 ### GasreSports Drupal Webstore
-
-[GasreSports Drupal Webstore](https://gasresports.com/)
+![Webstore header](/images/drupalheader.png "GasreSports header")
+[gasresports.com](https://gasresports.com/)
 
 ### SELL Games Ionic App
 
