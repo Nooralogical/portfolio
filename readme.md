@@ -8,7 +8,11 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## UX & UI design
 
+### SELL Games App UI design
+
 [SELL Games Ionic App UI design](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
+
+### LevelCam App design
 
 ![LevelCam design](/images/levelcam-design.jpg "LevelCam App UI design")
 ![LevelCam product](/images/levelcam-final.jpg "LevelCam App")
@@ -16,16 +20,26 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## Front-end
 
+### GasreSports Drupal Webstore
+
 [GasreSports Drupal Webstore](https://gasresports.com/)
 
+### SELL Games Ionic App
+
 [SELL Games Ionic App](https://github.com/SELLgames/sellGames)
+
+### LevelCam Android App
 
 [LevelCam Android App](https://github.com/Vatupassit/levelcam)
 
 
 ## Game development
 
+### Finnish Game Jam 2018 Game
+Theme: Transmission
 [Global Game Jam Game](https://globalgamejam.org/2018/games/robots-mission)
+
+### Hotline LAMK GameMaker Studio 2 Game
 
 
 ## Back-end & Others
