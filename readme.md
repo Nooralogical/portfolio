@@ -1,9 +1,6 @@
-![Header image](/images/githeader.jpg "Porfolio header picture")
-
 # Portfolio
 
-**Noora Etula**
-<noora.etula@gmail.com>
+![Header image](/images/githeader.jpg "Porfolio header picture")
 
 ## About
 
