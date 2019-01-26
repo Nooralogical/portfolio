@@ -29,8 +29,8 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## Front-end
 
-<img src="/images/gasreicon.png" width="50">
-![Gasre Icon](/images/gasreicon.png)
+<img src="/images/gasreicon.png" width="70">
+
 ### GasreSports Drupal Webstore
 ![Webstore header](/images/drupalheader.png "GasreSports header")
 
