@@ -34,7 +34,6 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 <img src="/images/gasreicon.png" width="100">
 
 ### GasreSports Drupal Webstore
-![Webstore header](/images/drupalheader.png "GasreSports header")
 
 * Drupal 8 & Commerce
 * PHP
