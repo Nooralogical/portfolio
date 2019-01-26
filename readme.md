@@ -25,14 +25,32 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ### GasreSports Drupal Webstore
 ![Webstore header](/images/drupalheader.png "GasreSports header")
+
 [gasresports.com](https://gasresports.com/)
 
 ### SELL Games Ionic App
 
 ![SELL front](/images/sellappfront.jpg "SELL app front")
+
+* Ionic 4 & Ionic components
+* Angular & Cordova
+* TypeScript
+* HTML & CSS
+
+SELL Games app is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities. This team project is continuing in spring 2019 with me still in the team.
+
 [SELL Games Ionic App](https://github.com/SELLgames/sellGames)
 
 ### LevelCam Android App
+
+![LevelCam final product](/images/levelcam-final.jpg "LevelCam App")
+![LevelCam elements hidden](/images/levelcamhidden.jpg "LevelCam App buttons")
+
+* Android Studio
+* Java
+* XML styling
+
+LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design. For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
 [LevelCam Android App](https://github.com/Vatupassit/levelcam)
 
