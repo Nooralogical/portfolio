@@ -57,7 +57,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 SELL Games app is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities. This team project is continuing in spring 2019 with me still in the team.
 
-[SELL Games Ionic App](https://github.com/SELLgames/sellGames)
+[Ionic App repository](https://github.com/SELLgames/sellGames)
 
 [Article about the project in local newspaper (in Finnish)](https://www.ess.fi/urheilu/Urheilu/art2498781)
 
@@ -72,7 +72,7 @@ SELL Games app is currently a prototype app constructed based on my UI designs. 
 
 LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design. For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
-[LevelCam Android App](https://github.com/Vatupassit/levelcam)
+[Android App repository](https://github.com/Vatupassit/levelcam)
 
 
 ## Game development
@@ -102,5 +102,7 @@ Theme: Transmission
 
 # Thank you for your time!
 :wave:
+
 :email: noora.etula@gmail.com
+
 :rainbow:
