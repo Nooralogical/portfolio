@@ -66,5 +66,7 @@ Theme: Transmission
 
 ## Back-end & Others
 
-# Thanks for reading
-:closed_book:
+# Thank you for your time!
+:wave:
+:email: noora.etula@gmail.com
+:rainbow:
