@@ -10,8 +10,8 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ### SELL Games App UI design
 
-![SELL frontpage](/images/sellfront.jpg "SELL app frontpage")
-![SELL calendar](/images/sellcalendar.png "SELL app calendar")
+![SELL front](/images/sellapp.jpg "SELL app front")
+![SELL menu](/images/sellappfront.jpg "SELL app menu")
 
 [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
