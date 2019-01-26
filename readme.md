@@ -10,7 +10,10 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ### SELL Games App UI design
 
-[SELL Games Ionic App UI design](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
+![SELL frontpage](/images/sellfront.jpg "SELL app frontpage")
+![SELL calendar](/images/sellcalendar.jpg "SELL app calendar")
+
+[App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
 ### LevelCam App design
 
