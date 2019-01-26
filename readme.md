@@ -13,6 +13,9 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 ![SELL front](/images/sellapp.png "SELL app front")
 ![SELL menu](/images/sellappmenu.png "SELL app menu")
 
+* Adobe Xd
+* Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/)
+
 [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
 ### LevelCam App design
@@ -20,11 +23,22 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 ![LevelCam design](/images/levelcam-design.jpg "LevelCam App UI design")
 ![LevelCam product](/images/levelcam-final.jpg "LevelCam App")
 
+* Adobe Xd
+* Icons made with Adobe Photoshop
+
 
 ## Front-end
 
 ### GasreSports Drupal Webstore
 ![Webstore header](/images/drupalheader.png "GasreSports header")
+
+* Drupal 8 & Commerce
+* PHP
+* Sass & Compass
+* TODO Wireframe tool?
+* Icons made with Adobe Photoshop
+
+!Professional work, no source codes
 
 [gasresports.com](https://gasresports.com/)
 
@@ -58,11 +72,19 @@ LevelCam adroid app was a team project in autumn 2018. The goal was to create an
 ## Game development
 
 ### Finnish Game Jam 2018 Game
+
+* Unity
+* C#
+* 48 hours & 1 bag of crisps
+
 Theme: Transmission
 [Global Game Jam Game](https://globalgamejam.org/2018/games/robots-mission)
 
 ### Hotline LAMK GameMaker Studio 2 Game
 
+* GameMaker Studio 2
+* GameMaker Language
+* 2D graphics with [Pixelart](https://www.pixilart.com) & Photoshop
 
 ## Back-end & Others
 
