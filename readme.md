@@ -29,6 +29,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## Front-end
 
+![Gasre Icon](/images/gasreicon.png "Gasre Icon") 
 ### GasreSports Drupal Webstore
 ![Webstore header](/images/drupalheader.png "GasreSports header")
 
@@ -84,9 +85,15 @@ Theme: Transmission
 
 * GameMaker Studio 2
 * GameMaker Language
-* 2D graphics with [Pixelart](https://www.pixilart.com) & Photoshop
+* 2D graphics made with [Pixelart](https://www.pixilart.com) & Photoshop
 
 ## Back-end & Others
+
+### Bounching balls with ECMAScript 6
+
+### Filters & Pipes with C
+
+### 
 
 # Thank you for your time!
 :wave:
