@@ -29,7 +29,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ### SELL Games Ionic App
 
-![SELL front](/images/sellappfront.png "SELL app front")
+![SELL front](/images/sellappfront.jpg "SELL app front")
 [SELL Games Ionic App](https://github.com/SELLgames/sellGames)
 
 ### LevelCam Android App
