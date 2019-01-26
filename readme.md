@@ -8,6 +8,8 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## UX & UI design
 
+
+
 ### SELL Games App UI design
 
 ![SELL front](/images/sellapp.png "SELL app front")
@@ -56,6 +58,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 SELL Games app is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities. This team project is continuing in spring 2019 with me still in the team.
 
 [SELL Games Ionic App](https://github.com/SELLgames/sellGames)
+[Article about the project in local newspaper (in Finnish)](https://www.ess.fi/urheilu/Urheilu/art2498781)
 
 ### LevelCam Android App
 
