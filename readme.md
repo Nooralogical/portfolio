@@ -8,17 +8,21 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## UX & UI design
 
+<img src="/icons/selldesignicon.png" width="100">
+
 ### SELL Games App UI design
 
 ![SELL front](/images/sellapp.png "SELL app front")
 ![SELL menu](/images/sellappmenu.png "SELL app menu")
 
 * Adobe Xd
-* Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/)
+* Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/))
 
 TODO description
 
 [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
+
+<img src="/icons/levelicon.png" width="100">
 
 ### LevelCam App design
 
@@ -32,7 +36,7 @@ TODO description
 
 ## Front-end
 
-<img src="/images/gasreicon.png" width="100">
+<img src="/icons/gasreicon.png" width="100">
 
 ### GasreSports Drupal Webstore
 
@@ -46,6 +50,8 @@ TODO description
 TODO description
 
 [gasresports.com](https://gasresports.com/)
+
+<img src="/icons/sellicon.png" width="100">
 
 ### SELL Games Ionic App
 
@@ -61,6 +67,8 @@ SELL Student Games app is currently a prototype app constructed based on my UI d
 [Ionic App repository](https://github.com/SELLgames/sellGames)
 
 [Article about the project in local newspaper (in Finnish)](https://www.ess.fi/urheilu/Urheilu/art2498781)
+
+<img src="/icons/levelicon.png" width="100">
 
 ### LevelCam Android App
 
@@ -95,6 +103,8 @@ Theme: Transmission
 
 ## Back-end & Others
 
+<img src="/icons/bubbleicon.png" width="100">
+
 ### Bounching balls with ECMAScript 6
 
 * ECMAScript 6
@@ -112,6 +122,8 @@ Theme: Transmission
 * Node.js
 * Express
 * Server
+
+<img src="/icons/laravelicon.png" width="100">
 
 
 #### Laravel
