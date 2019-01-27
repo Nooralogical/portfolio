@@ -8,8 +8,6 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## UX & UI design
 
-
-
 ### SELL Games App UI design
 
 ![SELL front](/images/sellapp.png "SELL app front")
@@ -17,6 +15,8 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 * Adobe Xd
 * Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/)
+
+TODO description
 
 [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
@@ -28,6 +28,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 * Adobe Xd
 * Icons made with Adobe Photoshop
 
+TODO description
 
 ## Front-end
 
@@ -42,6 +43,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 * Icons made with Adobe Photoshop
 
 !Professional work, no source codes
+TODO description
 
 [gasresports.com](https://gasresports.com/)
 
@@ -54,7 +56,7 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 * TypeScript
 * HTML & CSS
 
-SELL Games app is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities. This team project is continuing in spring 2019 with me still in the team.
+SELL Student Games app is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities. This team project is continuing in spring 2019 with me still in the team.
 
 [Ionic App repository](https://github.com/SELLgames/sellGames)
 
@@ -95,9 +97,28 @@ Theme: Transmission
 
 ### Bounching balls with ECMAScript 6
 
+* ECMAScript 6
+
+[Bubble generator demo](http://niisku.lamk.fi/~Noora16008/bubbles/)
+
 ### Filters & Pipes with C
 
-### 
+* C
+
+### REST APIs
+
+#### Node.js 
+
+* Node.js
+* Express
+* Server
+
+
+#### Laravel
+
+* Laravel framework
+* PHP
+* Client
 
 # Thank you for your time!
 :wave:
