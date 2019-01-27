@@ -117,7 +117,7 @@ ___
 
 * ECMAScript 6
 
-[Bubble generator demo](http://niisku.lamk.fi/~Noora16008/bubbles/)
+[Bubble generator demo](http://niisku.lamk.fi/~Noora16008/demos/bubbles/)
 
 ___
 
