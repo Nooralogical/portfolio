@@ -59,6 +59,8 @@ ___
 
 ### SELL Games Ionic App
 
+![SELL front](/images/sellappfront.jpg "SELL app front")
+
 * Ionic 4 & Ionic components
 * Angular & Cordova
 * TypeScript
@@ -76,6 +78,9 @@ ___
 
 ### LevelCam Android App
 
+![LevelCam final product](/images/levelcam-final.jpg "LevelCam App")
+![LevelCam elements hidden](/images/levelcamhidden.jpg "LevelCam App buttons")
+
 * Android Studio
 * Java
 * XML styling
@@ -83,6 +88,7 @@ ___
 LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design. For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
 [Android App repository](https://github.com/Vatupassit/levelcam)
+
 
 ## Game development
 
