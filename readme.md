@@ -22,6 +22,8 @@ TODO description
 
 [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
+___
+
 <img src="/icons/levelicon.png" width="100">
 
 ### LevelCam App design
@@ -51,6 +53,8 @@ TODO description
 
 [gasresports.com](https://gasresports.com/)
 
+___
+
 <img src="/icons/sellicon.png" width="100">
 
 ### SELL Games Ionic App
@@ -67,6 +71,8 @@ SELL Student Games app is currently a prototype app constructed based on my UI d
 [Ionic App repository](https://github.com/SELLgames/sellGames)
 
 [Article about the project in local newspaper (in Finnish)](https://www.ess.fi/urheilu/Urheilu/art2498781)
+
+___
 
 <img src="/icons/levelicon.png" width="100">
 
@@ -95,6 +101,8 @@ LevelCam adroid app was a team project in autumn 2018. The goal was to create an
 Theme: Transmission
 [Global Game Jam Game](https://globalgamejam.org/2018/games/robots-mission)
 
+___
+
 ### Hotline LAMK GameMaker Studio 2 Game
 
 * GameMaker Studio 2
@@ -111,6 +119,8 @@ Theme: Transmission
 
 [Bubble generator demo](http://niisku.lamk.fi/~Noora16008/bubbles/)
 
+___
+
 ### Filters & Pipes with C
 
 * C
@@ -123,8 +133,9 @@ Theme: Transmission
 * Express
 * Server
 
-<img src="/icons/laravelicon.png" width="100">
+___
 
+<img src="/icons/laravelicon.png" width="100">
 
 #### Laravel
 
