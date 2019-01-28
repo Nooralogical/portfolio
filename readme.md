@@ -44,6 +44,7 @@ TODO description
 * Icons made with Adobe Photoshop
 
 !Professional work, no source codes
+
 TODO description
 
 <img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
@@ -113,6 +114,8 @@ ___
 ### Filters & Pipes with C
 
 * C
+
+___
 
 ### REST APIs
 
