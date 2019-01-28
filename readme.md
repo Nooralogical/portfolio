@@ -6,6 +6,15 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 # Projects
 
+## Table of Contents
+
+  * [UX & UI design](#UX-&-UI-design)
+    * [SELL Games Ionic App](#SELL-Games-App-UI-design)
+    * [LevelCam Android App](#LevelCam-App-design)
+  * [Frontend](#Fronted)
+  * [Game development](#Game-development)
+  * [Chapter 3](#Back-end-&-Others)
+
 ## UX & UI design
 
 ### SELL Games App UI design
@@ -33,7 +42,7 @@ ___
 
 TODO description
 
-## Front-end
+## Frontend
 
 ### GasreSports Drupal Webstore
 
