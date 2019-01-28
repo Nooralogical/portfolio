@@ -37,6 +37,9 @@ TODO description
 
 ### GasreSports Drupal Webstore
 
+![GasreSports front](/images/gasrefront.png "GasreSports front")
+![GasreSports menu](/images/gasremenu.png "GasreSports menu")
+
 * Drupal 8 & Commerce
 * PHP
 * Sass & Compass
@@ -53,7 +56,8 @@ ___
 
 ### SELL Games Ionic App
 
-![SELL front](/images/sellappfront.jpg "SELL app front")
+![SELL front](/images/sellfront.png "SELL app front")
+![SELL calendar](/images/sellcal.png "SELL app calendar")
 
 * Ionic 4 & Ionic components
 * Angular & Cordova
