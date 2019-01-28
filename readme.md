@@ -2,7 +2,7 @@
 
 # About
 
-Software engineering student @ **Lahti University of Applied Sciences** (graduating 2020). Programmer with a strong design background. Comfortable with front-end technologies but not afraid to tackle the back-end either. Projects include school work, professional work and personal projects.
+Software engineering student @ **Lahti University of Applied Sciences** (graduating 2020). Programmer with a strong design background. Comfortable with frontend technologies but not afraid to tackle the backend either. Projects include school work, professional work and personal projects.
 
 # Projects
 
