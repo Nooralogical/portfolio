@@ -8,19 +8,18 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## UX & UI design
 
-<img src="/icons/selldesignicon.png" width="100">
-
 ### SELL Games App UI design
 
 ![SELL front](/images/sellapp.png "SELL app front")
 ![SELL menu](/images/sellappmenu.png "SELL app menu")
+
 
 * Adobe Xd
 * Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/))
 
 TODO description
 
-[App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
+<img src="/icons/selldesignicon.png" width="100"> [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
 ___
 
