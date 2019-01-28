@@ -30,11 +30,12 @@ Software engineering student @ **Lahti University of Applied Sciences** (graduat
 ![SELL front](/images/sellapp.png "SELL app front")
 ![SELL menu](/images/sellappmenu.png "SELL app menu")
 
-
 * Adobe Xd
 * Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/))
 
-TODO description
+In the autumn 2018, I designed the UI layouts and functionalites for the SELL Student Games event application. This is a client project inside our university and all designs where created with the client's needs and requirements in mind. I was part of the application team at the design and prototype phases. Actual implementation of the designs can be found [here](#SELL-Games-Ionic-application).
+
+The application itself will be in use in the spring of 2020 at the Student games in Lahti. The designs are specifically designed to work for a sports event with a lot of the different sports and tight scheduling. The main goal was to create a clear and easy-to-use application the participants and the audience can use during the event.
 
 <img src="/icons/selldesignicon.png" width="100"> [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
@@ -81,7 +82,9 @@ ___
 * TypeScript
 * HTML & CSS
 
-SELL Student Games app is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities. This team project is continuing in spring 2019 with me still in the team.
+SELL Student Games application is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities while I lead the team as the scrum master.
+
+This team project is continuing in spring 2019 with me still in the team.
 
 <img src="/icons/sellicon.png" width="100"> [Ionic App repository](https://github.com/SELLgames/sellGames)
 
