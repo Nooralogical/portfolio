@@ -8,16 +8,24 @@ Software engineering student @ **Lahti University of Applied Sciences**. Program
 
 ## Table of Contents
 
-  * [UX & UI design](#UX-&-UI-design)
-    * [SELL Games Ionic App](#SELL-Games-App-UI-design)
-    * [LevelCam Android App](#LevelCam-App-design)
-  * [Frontend](#Fronted)
+  * [UX & UI design](#UX-and-UI-design)
+    * [SELL Games Ionic app design](#SELL-Games-application-UI-design)
+    * [LevelCam Android app design](#LevelCam-application-design)
+  * [Frontend](#Frontend)
+    * [GasreSports Drupal webstore](#GasreSports-Drupal-webstore)
+    * [SELL Games Ionic app](#SELL-Games-Ionic-application)
+    * [LevelCam Android app](#LevelCam-Android-application)
   * [Game development](#Game-development)
-  * [Chapter 3](#Back-end-&-Others)
+    * [FGJ 2018 game](#Finnish-Game-Jam-2018-game)
+    * [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
+  * [Backend and others](#Backend-and-others)
+    * [Bounching balls with ES6](#Bouncing-balls-with-ECMAScript-6)
+    * [Filters and pipes with C](#Filters-and-Pipes-with-C)
+    * [REST APIs](#REST-APIs)
 
-## UX & UI design
+## UX and UI design
 
-### SELL Games App UI design
+### SELL Games application UI design
 
 ![SELL front](/images/sellapp.png "SELL app front")
 ![SELL menu](/images/sellappmenu.png "SELL app menu")
@@ -32,7 +40,7 @@ TODO description
 
 ___
 
-### LevelCam App design
+### LevelCam application design
 
 ![LevelCam design](/images/levelcam-design.jpg "LevelCam App UI design")
 ![LevelCam product](/images/levelcam-final.jpg "LevelCam App")
@@ -44,7 +52,7 @@ TODO description
 
 ## Frontend
 
-### GasreSports Drupal Webstore
+### GasreSports Drupal webstore
 
 ![GasreSports front](/images/gasrefront.png "GasreSports front")
 ![GasreSports menu](/images/gasremenu.png "GasreSports menu")
@@ -63,7 +71,7 @@ TODO description
 
 ___
 
-### SELL Games Ionic App
+### SELL Games Ionic application
 
 ![SELL front](/images/sellfront.png "SELL app front")
 ![SELL calendar](/images/sellcal.png "SELL app calendar")
@@ -81,7 +89,7 @@ SELL Student Games app is currently a prototype app constructed based on my UI d
 
 ___
 
-### LevelCam Android App
+### LevelCam Android application
 
 ![LevelCam final product](/images/levelcam-final.jpg "LevelCam App")
 ![LevelCam elements hidden](/images/levelcamhidden.jpg "LevelCam App buttons")
@@ -97,7 +105,7 @@ LevelCam adroid app was a team project in autumn 2018. The goal was to create an
 
 ## Game development
 
-### Finnish Game Jam 2018 Game
+### Finnish Game Jam 2018 game
 
 * Unity
 * C#
@@ -108,13 +116,13 @@ Theme: Transmission
 
 ___
 
-### Hotline LAMK GameMaker Studio 2 Game
+### Hotline LAMK GameMaker Studio 2 game
 
 * GameMaker Studio 2
 * GameMaker Language
 * 2D graphics made with [Pixelart](https://www.pixilart.com) & Photoshop
 
-## Back-end & Others
+## Backend and others
 
 ### Bouncing balls with ECMAScript 6
 
@@ -124,7 +132,7 @@ ___
 
 ___
 
-### Filters & Pipes with C
+### Filters and Pipes with C
 
 * C
 
