@@ -2,7 +2,7 @@
 
 # About
 
-Software engineering student @ **Lahti University of Applied Sciences** (graduating 2020). Programmer with a strong design background. Comfortable with frontend technologies but not afraid to tackle the backend either. Projects include school work, professional work and personal projects.
+Software engineering student @ **Lahti University of Applied Sciences** (graduating in 2020). Programmer with a strong design background. Comfortable with frontend technologies but not afraid to tackle the backend either. Projects include school work, professional work and personal projects.
 
 # Projects
 
@@ -30,7 +30,7 @@ Software engineering student @ **Lahti University of Applied Sciences** (graduat
 ![SELL front](/images/sellapp.png "SELL app front")
 ![SELL menu](/images/sellappmenu.png "SELL app menu")
 
-* *Adobe Xd*
+* **Adobe Xd**
 * Menu icons are placeholders ([Allumi icon set](https://www.xdguru.com/allumi-xd-icon-set/))
 
 In the autumn 2018, I designed the UI layouts and functionalites for the SELL Student Games event application. This is a client project inside our university and all designs where created with the client's needs and requirements in mind. I was part of the application team at the design and prototype phases. Actual implementation of the designs can be found [here](#SELL-Games-Ionic-application).
@@ -46,8 +46,8 @@ ___
 ![LevelCam design](/images/levelcam-design.jpg "LevelCam App UI design")
 ![LevelCam product](/images/levelcam-final.jpg "LevelCam App")
 
-* *Adobe Xd*
-* Icons made with *Adobe Photoshop CC*
+* **Adobe Xd**
+* Icons made with **Adobe Photoshop CC**
 
 TODO description
 
@@ -58,11 +58,11 @@ TODO description
 ![GasreSports front](/images/gasrefront.png "GasreSports front")
 ![GasreSports menu](/images/gasremenu.png "GasreSports menu")
 
-* *Drupal 8 & Commerce*
-* *PHP*
-* *Sass & Compass*
-* *Axure RP* used for wireframes
-* Icons made with *Adobe Photoshop CC*
+* **Drupal 8 & Commerce**
+* **PHP**
+* **Sass & Compass**
+* **Axure RP** used for wireframes
+* Icons made with **Adobe Photoshop CC**
 
 !Professional work, no source codes
 
