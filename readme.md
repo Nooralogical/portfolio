@@ -68,7 +68,7 @@ TODO description
 
 TODO description
 
-<img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
+> <img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
 
 ___
 
@@ -77,10 +77,10 @@ ___
 ![SELL front](/images/sellfront.png "SELL app front")
 ![SELL calendar](/images/sellcal.png "SELL app calendar")
 
-* Ionic 4 & Ionic components
-* Angular & Cordova
-* TypeScript
-* HTML & CSS
+* **Ionic 4** & Ionic components
+* **Angular & Cordova**
+* **TypeScript**
+* **HTML & CSS**
 
 SELL Student Games application is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities while I lead the team as the scrum master.
 
@@ -97,9 +97,9 @@ ___
 ![LevelCam final product](/images/levelcam-final.jpg "LevelCam App")
 ![LevelCam elements hidden](/images/levelcamhidden.jpg "LevelCam App buttons")
 
-* Android Studio
-* Java
-* XML styling
+* **Android Studio**
+* **Java**
+* **XML** styling
 
 LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design. For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
@@ -110,8 +110,8 @@ LevelCam adroid app was a team project in autumn 2018. The goal was to create an
 
 ### Finnish Game Jam 2018 game
 
-* Unity
-* C#
+* **Unity**
+* **C#**
 * 48 hours & 1 bag of crisps
 
 Theme: Transmission
@@ -121,15 +121,15 @@ ___
 
 ### Hotline LAMK GameMaker Studio 2 game
 
-* GameMaker Studio 2
-* GameMaker Language
-* 2D graphics made with [Pixelart](https://www.pixilart.com) & Photoshop
+* **GameMaker Studio 2**
+* **GameMaker Language**
+* 2D graphics made with [Pixelart](https://www.pixilart.com) & **Adobe Photoshop CC**
 
 ## Backend and others
 
 ### Bouncing balls with ECMAScript 6
 
-* ECMAScript 6
+* **ECMAScript 6**
 
 <img src="/icons/bubbleicon.png" width="100"> [Bubble generator demo](http://niisku.lamk.fi/~Noora16008/demos/bubbles/)
 
@@ -137,7 +137,7 @@ ___
 
 ### Filters and Pipes with C
 
-* C
+* **C**
 
 ___
 
@@ -145,16 +145,16 @@ ___
 
 #### Node.js 
 
-* Node.js
-* Express
-* Server
+* **Node.js**
+* **Express**
+* **Server**
 
 ___
 
 #### Laravel
 
-* Laravel framework
-* PHP
+* **Laravel** framework
+* **PHP**
 * Client
 
 # Thank you for your time!
@@ -163,3 +163,5 @@ ___
 :email: noora.etula@gmail.com
 
 :rainbow:
+
+Updated
