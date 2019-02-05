@@ -68,7 +68,7 @@ TODO description
 
 TODO description
 
-> <img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
+<img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
 
 ___
 
@@ -86,7 +86,7 @@ SELL Student Games application is currently a prototype app constructed based on
 
 This team project is continuing in spring 2019 with me still in the team.
 
-<img src="/icons/sellicon.png" width="100"> [Ionic App repository](https://github.com/SELLgames/sellGames)
+<img src="/icons/sellicon.png" width="100"> [Repository](https://github.com/SELLgames/sellGames)
 
 [Article about the project in local newspaper (in Finnish)](https://www.ess.fi/urheilu/Urheilu/art2498781)
 
@@ -103,7 +103,7 @@ ___
 
 LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design. For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
-<img src="/icons/levelicon.png" width="100"> [Android App repository](https://github.com/Vatupassit/levelcam)
+<img src="/icons/levelicon.png" width="100"> [Repository](https://github.com/Vatupassit/levelcam)
 
 
 ## Game development
@@ -127,18 +127,20 @@ ___
 
 ## Backend and others
 
-### Bouncing balls with ECMAScript 6
+### Bubble Generator with ECMAScript 6
 
 * **ECMAScript 6**
 
 <img src="/icons/bubbleicon.png" width="100"> [Bubble generator demo](http://niisku.lamk.fi/~Noora16008/demos/bubbles/)
 
+[Repository](https://github.com/Nooralogical/es6-bubble-generator)
 ___
 
 ### Filters and Pipes with C
 
 * **C**
 
+<img src="/icons/bubbleicon.png" width="100"> [Repository](https://github.com/Nooralogical/c-pipes-filters)
 ___
 
 ### REST APIs
@@ -163,5 +165,3 @@ ___
 :email: noora.etula@gmail.com
 
 :rainbow:
-
-Updated
