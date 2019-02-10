@@ -53,7 +53,7 @@ LevelCam was an Android application project in the autumn of 2018, in which my r
 
 On the left is the initial design and then the finished look of the application at the end of development. 
 
-The development of the complete application can be found [here](#LevelCam-application-design).
+The development of the complete application can be found [here](#LevelCam-Android-application).
 
 ## Frontend
 
@@ -105,7 +105,7 @@ ___
 * **Java**
 * **XML** styling
 
-LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design found [here](#LevelCam-Android-application) . For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
+LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design found [here](#LevelCam-application-design). For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
 <img src="/icons/levelicon.png" width="100"> [Repository HERE](https://github.com/Vatupassit/levelcam)
 
