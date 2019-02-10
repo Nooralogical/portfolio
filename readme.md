@@ -49,11 +49,13 @@ ___
 * **Adobe Xd**
 * Icons made with **Adobe Photoshop CC**
 
-LevelCam was an Android application project in the autumn of 2018, in which my responsibility was to design and implement a clean and easy-to-use single page layout. All elements of the application where designed to work as fragments over the camera view. To prevent the view from getting too busy, the user were given the option to hide elements.
+LevelCam was an Android application project in the autumn of 2018, in which my responsibility was to design and implement a clean and easy-to-use single page layout. 
+
+The application is a tool for measuring angles show in the camera view by moving the line on the display. All other elements of the application (compass and lux measurement)where designed to work as fragments over the camera view. To prevent the view from getting too busy, the user were given the option to hide elements.
 
 On the left is the initial design and then the finished look of the application at the end of development. 
 
-The development of the complete application can be found [here](#LevelCam-Android-application).
+The development of the application can be found [here](#LevelCam-Android-application).
 
 ## Frontend
 
@@ -68,9 +70,9 @@ The development of the complete application can be found [here](#LevelCam-Androi
 * **Axure RP** used for wireframes
 * Icons made with **Adobe Photoshop CC**
 
-!Professional work, no source codes
+!Professional work, no source codes available
 
-TODO description
+In the summer of 2018, I worked as a junior Drupal developer in Helsinki. I was given the opportunity to design the look of the webstore and implement the frontend & backend as well as work as the client contact for this project. I worked together with a senior developer on this project from start to launch and was assisted and instructed on the Drupal side of the project but all frontend work fully done by me.
 
 <img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
 
@@ -86,7 +88,7 @@ ___
 * **TypeScript**
 * **HTML & CSS**
 
-SELL Student Games application is currently a prototype app constructed based on my UI designs. Aside from the UI designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities while I lead the team as the scrum master.
+SELL Student Games application is currently a prototype application constructed based on my UI designs. Aside from the designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities while I lead the team as the scrum master.
 
 This team project is continuing in spring 2019 with me still in the team.
 
@@ -105,7 +107,9 @@ ___
 * **Java**
 * **XML** styling
 
-LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. I was responsible for the styling of the finished app, which I implemented based on my UI design found [here](#LevelCam-application-design). For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
+LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. The inspiration was a team member who worked as a solar panel fitter and needed a tool for measuring the roof angles while working. Other elements, compass and lux measurements were added as handy tools for the user.
+
+I was responsible for the styling of the finished app, which I implemented based on my UI design found [here](#LevelCam-application-design). For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
 <img src="/icons/levelicon.png" width="100"> [Repository HERE](https://github.com/Vatupassit/levelcam)
 
