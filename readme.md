@@ -72,7 +72,7 @@ The development of the application can be found [here](#LevelCam-Android-applica
 
 !Professional work, no source codes available
 
-In the summer of 2018, I worked as a junior Drupal developer in Helsinki. I was given the opportunity to design the look of the webstore and implement the frontend & backend as well as work as the client contact for this project. I worked together with a senior developer on this project from start to launch and was assisted and instructed on the Drupal side of the project but all frontend work fully done by me.
+In the summer of 2018, I worked as a junior Drupal developer in Helsinki. I was given the opportunity to design the look of the webstore and implement the frontend & backend as well as work as the client contact for this project. I worked together with a senior developer on this project from start to launch and was assisted and instructed on the Drupal side of the project but all frontend work was fully done by me.
 
 <img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
 
