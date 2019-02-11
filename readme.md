@@ -117,6 +117,8 @@ I was responsible for the styling of the finished app, which I implemented based
 
 ### Finnish Game Jam 2018 game
 
+![Robot's mission header](/images/robotheader.png "Robot's mission game")
+
 * **Unity**
 * **C#**
 * 48 hours & 1 bag of crisps
@@ -131,6 +133,8 @@ Theme: Transmission
 ___
 
 ### Hotline LAMK GameMaker Studio 2 game
+
+![Hotline LAMK header](/images/hotlineheader.png "Hotline LAMK game")
 
 * **GameMaker Studio 2**
 * **GameMaker Language**
