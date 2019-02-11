@@ -2,7 +2,7 @@
 
 # About
 
-Software engineering student @ **Lahti University of Applied Sciences** (graduating in 2020). Programmer with a strong design background. Comfortable with frontend technologies but not afraid to tackle the backend either. Projects include school work, professional work and personal projects.
+Hi you, Noora here! I'm a software engineering student @ **Lahti University of Applied Sciences** and graduating in autumn 2019, if the planets align. I'm a novice programmer with a strong design background. Even though, I'm comfortable with frontend technologies, I'm not afraid to tackle the backend either. Projects here include school work, professional work and personal projects, which I hope will demostrate you the scope of different subjects I'm curious about and have experience in.
 
 # Projects
 
