@@ -140,6 +140,8 @@ ___
 
 ### Bubble Generator with ECMAScript 6
 
+![Bubble generator header](/images/bubbleheader.png "Bubble generator")
+
 * **ECMAScript 6**
 
 !TODO description
