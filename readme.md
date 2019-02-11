@@ -124,7 +124,9 @@ I was responsible for the styling of the finished app, which I implemented based
 !TODO description
 Theme: Transmission
 
-[Global Game Jam Game](https://globalgamejam.org/2018/games/robots-mission)
+[Global Game Jam Game site](https://globalgamejam.org/2018/games/robots-mission)
+
+[Game video](https://youtu.be/tc3Hln99bMs)
 
 ___
 
