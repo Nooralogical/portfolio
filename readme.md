@@ -21,7 +21,6 @@ Software engineering student @ **Lahti University of Applied Sciences** (graduat
   * [Backend and others](#Backend-and-others)
     * [Bounching balls with ES6](#Bouncing-balls-with-ECMAScript-6)
     * [Filters and pipes with C](#Filters-and-Pipes-with-C)
-    * [REST APIs](#REST-APIs)
 
 ## UX and UI design
 
@@ -122,7 +121,9 @@ I was responsible for the styling of the finished app, which I implemented based
 * **C#**
 * 48 hours & 1 bag of crisps
 
+!TODO description
 Theme: Transmission
+
 [Global Game Jam Game](https://globalgamejam.org/2018/games/robots-mission)
 
 ___
@@ -133,11 +134,15 @@ ___
 * **GameMaker Language**
 * 2D graphics made with [Pixelart](https://www.pixilart.com) & **Adobe Photoshop CC**
 
+!TODO description
+
 ## Backend and others
 
 ### Bubble Generator with ECMAScript 6
 
 * **ECMAScript 6**
+
+!TODO description
 
 <img src="/icons/bubbleicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/es6-bubble-generator)
 
@@ -148,24 +153,9 @@ ___
 
 * **C**
 
+!TODO description
+
 <img src="/icons/bubbleicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/c-pipes-filters)
-___
-
-### REST APIs
-
-#### Node.js 
-
-* **Node.js**
-* **Express**
-* **Server**
-
-___
-
-#### Laravel
-
-* **Laravel** framework
-* **PHP**
-* Client
 
 # Thank you for your time!
 :wave:
