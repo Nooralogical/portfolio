@@ -19,7 +19,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
     * [FGJ 2018 game](#Finnish-Game-Jam-2018-game)
     * [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
   * [Backend and others](#Backend-and-others)
-    * [Bounching balls with ES6](#Bouncing-balls-with-ECMAScript-6)
+    * [Bouncing balls with ES6](#Bouncing-balls-with-ECMAScript-6)
     * [Filters and pipes with C](#Filters-and-Pipes-with-C)
 
 ## UX and UI design
