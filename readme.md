@@ -2,7 +2,7 @@
 
 # About
 
-Hi you, Noora here! I'm a software engineering student @ **Lahti University of Applied Sciences** and graduating in autumn 2019, if the planets align. I'm a novice programmer with a strong design background. Even though, I'm comfortable with frontend technologies, I'm not afraid to tackle the backend either. Projects here include school work, professional work and personal projects, which I hope will demostrate you the scope of different subjects I'm curious about and have experience in.
+Hi you, Noora here! I'm a software engineering student @ **Lahti University of Applied Sciences** and graduating in autumn 2019, if the planets align. I'm programmer with a strong design background. Even though, I'm comfortable with frontend technologies, I'm not afraid to tackle the backend either. Projects here include school work, professional work and personal projects, which I hope will demostrate the scope of different subjects I'm curious about and have experience in.
 
 # Projects
 
@@ -126,6 +126,7 @@ I was responsible for the styling of the finished app, which I implemented based
 !TODO description
 Theme: Transmission
 
+<img src="/icons/roboticon.png" width="100">
 [Global Game Jam Game site](https://globalgamejam.org/2018/games/robots-mission)
 
 [Game video](https://youtu.be/tc3Hln99bMs)
@@ -141,6 +142,8 @@ ___
 * 2D graphics made with [Pixelart](https://www.pixilart.com) & **Adobe Photoshop CC**
 
 !TODO description
+
+<img src="/icons/hotlineicon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
 
 ## Backend and others
 
@@ -163,7 +166,7 @@ ___
 
 !TODO description
 
-<img src="/icons/bubbleicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/c-pipes-filters)
+<img src="/icons/pipeicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/c-pipes-filters)
 
 # Thank you for your time!
 :wave:
