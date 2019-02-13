@@ -34,7 +34,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
 
 In the autumn 2018, I designed the UI layouts and functionalites for the SELL Student Games event application. This is a client project inside our university and all designs where created with the client's needs and requirements in mind. I was part of the application team at the design and prototype phases. Actual implementation of the designs can be found [here](#SELL-Games-Ionic-application).
 
-The application itself will be in use in the spring of 2020 at the Student games in Lahti. The designs are specifically designed to work for a sports event with a lot of the different sports and tight scheduling. The main goal was to create a clear and easy-to-use application the participants and the audience can use during the event.
+The application itself will be in use in the spring of 2020 at the Student games in Lahti. The designs are specifically designed to work for a multisport event with tight scheduling. The main goal was to create a clear and easy-to-use application the participants and the audience can use during the event.
 
 <img src="/icons/selldesignicon.png" width="100"> [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
@@ -50,11 +50,9 @@ ___
 
 LevelCam was an Android application project in the autumn of 2018, in which my responsibility was to design and implement a clean and easy-to-use single page layout. 
 
-The application is a tool for measuring angles show in the camera view by moving the line on the display. All other elements of the application (compass and lux measurement)where designed to work as fragments over the camera view. To prevent the view from getting too busy, the user were given the option to hide elements.
+The application is a tool for measuring angles show in the camera view by moving the line on the display. All other elements of the application (compass and lux measurement) were designed to work as fragments over the camera view. To prevent the view from getting too busy, the user were given the option to hide the elements.
 
-On the left is the initial design and then the finished look of the application at the end of development. 
-
-The development of the application can be found [here](#LevelCam-Android-application).
+On the left is the initial design and on the right, the application at the end of [development](#LevelCam-Android-application).
 
 ## Frontend
 
@@ -71,7 +69,7 @@ The development of the application can be found [here](#LevelCam-Android-applica
 
 !Professional work, no source codes available
 
-In the summer of 2018, I worked as a junior Drupal developer in Helsinki. I was given the opportunity to design the look of the webstore and implement the frontend & backend as well as work as the client contact for this project. I worked together with a senior developer on this project from start to launch and was assisted and instructed on the Drupal side of the project but all frontend work was fully done by me.
+In the summer of 2018, I worked as a junior Drupal developer in Helsinki. I was given the opportunity to design the look of the webstore and implement the frontend & backend as well as work as the client contact for this project. I worked together with a senior developer from start to launch and was assisted and instructed on the Drupal side of the project but all frontend work was fully designed and done by me.
 
 <img src="/icons/gasreicon.png" width="100"> [gasresports.com](https://gasresports.com/)
 
@@ -87,9 +85,9 @@ ___
 * **TypeScript**
 * **HTML & CSS**
 
-SELL Student Games application is currently a prototype application constructed based on my UI designs. Aside from the designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities while I lead the team as the scrum master.
+SELL Student Games application is currently a prototype constructed based on my UI [designs](#SELL-Games-application-UI-design). Aside from the designs, I was responsible for all the css styling, page routing and Ionic components. I also worked on the calendar and sport listing page functionalities while I lead the team as the scrum master.
 
-This team project is continuing in spring 2019 with me still in the team.
+This project is continuing in spring 2019 with me still in the team.
 
 <img src="/icons/sellicon.png" width="100"> [Repository HERE](https://github.com/SELLgames/sellGames)
 
@@ -106,7 +104,7 @@ ___
 * **Java**
 * **XML** styling
 
-LevelCam adroid app was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. The inspiration was a team member who worked as a solar panel fitter and needed a tool for measuring the roof angles while working. Other elements, compass and lux measurements were added as handy tools for the user.
+LevelCam Android application was a team project in autumn 2018. The goal was to create an Android app for measuring angles shown on the camera display. The inspiration was a team member who worked as a solar panel fitter and needed a tool for measuring the roof angles while working. Other elements, compass and lux measurements were added as handy tools for the user.
 
 I was responsible for the styling of the finished app, which I implemented based on my UI design found [here](#LevelCam-application-design). For better usability, I also added two switch buttons to hide/unhide elements on the app screen.
 
@@ -123,8 +121,7 @@ I was responsible for the styling of the finished app, which I implemented based
 * **C#**
 * 48 hours & 1 bag of crisps
 
-!TODO description
-Theme: Transmission [Global Game Jam Game site](https://globalgamejam.org/2018/games/robots-mission)
+I took part in the Finnish Game Jam 2018, where we designed and developed a game during 48 hours. The year's theme was Transmission and our team came up with a 2D platformer, where a robot is looking for his friend's body parts inside an abandoned factory. Idea was to utilize our sound designer as much as possible by adding unique sounds for each part. I was both the lead programmer and game designer for this game. More details and all source codes can be found at the [Global Game Jam Game site](https://globalgamejam.org/2018/games/robots-mission).
 
 <img src="/icons/roboticon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
 
