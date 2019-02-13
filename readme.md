@@ -140,7 +140,7 @@ ___
 
 !TODO description
 
-<img src="/icons/hotlineicon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
+<img src="/icons/hotlineicon.png" width="100"> [Game video](https://youtu.be/U26l3SlNd3s)
 
 ## Backend and others
 
