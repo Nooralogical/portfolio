@@ -124,12 +124,9 @@ I was responsible for the styling of the finished app, which I implemented based
 * 48 hours & 1 bag of crisps
 
 !TODO description
-Theme: Transmission
+Theme: Transmission [Global Game Jam Game site](https://globalgamejam.org/2018/games/robots-mission)
 
-<img src="/icons/roboticon.png" width="100">
-[Global Game Jam Game site](https://globalgamejam.org/2018/games/robots-mission)
-
-[Game video](https://youtu.be/tc3Hln99bMs)
+<img src="/icons/roboticon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
 
 ___
 
