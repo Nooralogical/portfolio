@@ -34,7 +34,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
 
 In the autumn 2018, I designed the UI layouts and functionalites for the SELL Student Games event application. This is a client project inside our university and all designs where created with the client's needs and requirements in mind. I was part of the application team at the design and prototype phases. Actual implementation of the designs can be found [here](#SELL-Games-Ionic-application).
 
-The application itself will be in use in the spring of 2020 at the Student games in Lahti. The designs are specifically designed to work for a multisport event with tight scheduling. The main goal was to create a clear and easy-to-use application the participants and the audience can use during the event.
+The application itself will be in use in the spring of 2020 at the Student games in Lahti. The interface is specifically designed to work for a multisport event with tight scheduling. The main goal was to create a clear and easy-to-use application the participants and the audience can use during the event.
 
 <img src="/icons/selldesignicon.png" width="100"> [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
 
