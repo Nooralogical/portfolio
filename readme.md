@@ -135,7 +135,9 @@ ___
 * **GameMaker Language**
 * 2D graphics made with [Pixelart](https://www.pixilart.com) & **Adobe Photoshop CC**
 
-!TODO description
+This project was inspired by the Hotline Miami game, because we used the same game engine to create ours. Idea was to create a game where you would navigate Lahti UAS new campus building section with computer labs and design workshops. You get study points for each classroom you find and finally graduate when you have enough points. Exactly like real life! 
+
+I worked on some programming parts like the main menu, pause menu ja GUI elements. However I was mainly responsible for the 2D graphics and animations.
 
 <img src="/icons/hotlineicon.png" width="100"> [Game video](https://youtu.be/U26l3SlNd3s)
 
@@ -147,7 +149,7 @@ ___
 
 * **ECMAScript 6**
 
-!TODO description
+This is a simple piece of code, I did to practise working with ES6 and HTML5 canvas element. With simple code changes, the amount of bubbles, interval and bubble speed can be modified.
 
 <img src="/icons/bubbleicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/es6-bubble-generator)
 
@@ -158,7 +160,7 @@ ___
 
 * **C**
 
-!TODO description
+I added this collection of C programs to demostrate I'm not afraid of C languages! The 6 short programs are filters for standard input. They produce filtered output and can be piped together to filter any input like source code or text files. See repository for more specific instructions on how to.
 
 <img src="/icons/pipeicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/c-pipes-filters)
 
