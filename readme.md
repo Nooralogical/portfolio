@@ -19,7 +19,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
     * [FGJ 2018 game](#Finnish-Game-Jam-2018-game)
     * [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
   * [Backend and others](#Backend-and-others)
-    * [Node.js REST API](#Node.js-&-Express-REST-API-server)
+    * [Node.js REST API](#Node.js-and-Express-REST-API-server)
     * [Bubble Generator with ES6](#Bubble-Generator-with-ECMAScript-6)
     * [Filters and pipes with C](#Filters-and-Pipes-with-C)
 
@@ -144,7 +144,7 @@ I worked on some programming parts like the main menu, pause menu ja GUI element
 
 ## Backend and others
 
-### Node.js & Express REST API server
+### Node.js and Express REST API server
 
 * **Node.js**
 * **Express**
