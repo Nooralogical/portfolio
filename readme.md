@@ -19,6 +19,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
     * [FGJ 2018 game](#Finnish-Game-Jam-2018-game)
     * [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
   * [Backend and others](#Backend-and-others)
+    * [Node.js REST API](#Node.js-&-Express-REST-API-server)
     * [Bubble Generator with ES6](#Bubble-Generator-with-ECMAScript-6)
     * [Filters and pipes with C](#Filters-and-Pipes-with-C)
 
@@ -143,11 +144,21 @@ I worked on some programming parts like the main menu, pause menu ja GUI element
 
 ## Backend and others
 
+### Node.js & Express REST API server
+
+* **Node.js**
+* **Express**
+* **mySQL**
+
+REST API server made with Node.js and web framework Express. Uses GET, POST, PUT and DELETE methods to mofidy details in mySQL database. Tested with a client and Postman API development environment.
+
+<img src="/icons/pipeicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/rest-api-nodejs)
+___
+
 ### Bubble Generator with ECMAScript 6
 
-![Bubble generator header](/images/bubbleheader.png "Bubble generator")
-
 * **ECMAScript 6**
+* **HTML5**
 
 This is a simple piece of code, I did to practise working with ES6 and HTML5 canvas element. With simple code changes, the amount of bubbles, interval and bubble speed can be modified.
 
