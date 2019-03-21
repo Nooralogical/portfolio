@@ -20,6 +20,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
     * [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
   * [Backend and others](#Backend-and-others)
     * [Node.js REST API](#REST-API-server)
+    * [Laravel REST API](#REST-API-client)
     * [Bubble Generator with ES6](#Bubble-Generator-with-ECMAScript-6)
     * [Filters and pipes with C](#Filters-and-Pipes-with-C)
 
@@ -37,7 +38,7 @@ In the autumn 2018, I designed the UI layouts and functionalites for the SELL St
 
 The application itself will be in use in the spring of 2020 at the Student games in Lahti. The interface is specifically designed to work for a multisport event with tight scheduling. The main goal was to create a clear and easy-to-use application the participants and the audience can use during the event.
 
-<img src="/icons/selldesignicon.png" width="100"> [App proto with Adobe Xd](https://xd.adobe.com/view/37baeee9-8750-4816-5ff9-7b09d43cb0d1-418b/)
+<img src="/icons/selldesignicon.png" width="100"> [App proto with Adobe Xd](https://xd.adobe.com/view/bb80d2b5-06c7-41b8-5108-1776f5567ba9-cdb1/?hints=off)
 
 ___
 
@@ -153,6 +154,16 @@ I worked on some programming parts like the main menu, pause menu ja GUI element
 REST API server made with Node.js and web framework Express. Uses GET, POST, PUT and DELETE methods to mofidy details in mySQL database. Tested with a client and Postman API development environment.
 
 <img src="/icons/pipeicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/rest-api-nodejs)
+___
+
+### REST API client
+
+* **Laravel**
+* **PHP**
+
+!TODO description
+
+<img src="/icons/pipeicon.png" width="100"> [Repository HERE](https://github.com/Nooralogical/rest-api-laravel)
 ___
 
 ### Bubble Generator with ECMAScript 6
